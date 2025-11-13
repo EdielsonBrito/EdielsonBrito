@@ -9,7 +9,7 @@ desenvolvedor Backend, residente em {Rio de Janeiro}/{Brasil}
 - 🌱Meus estudos atuais focam em ** Backend ( Python(POO e Estruturada) e PostgreSQL.)  
 Conceito,	Classe,	Objeto (Instância),	Encapsulamento,	Herança,	Polimorfismo,	Abstração,	Método de Classe,Propriedade
 
-- 📫 Este é meu e-mail para contato : **britoedielson1@gmail.com **
+- 📫 Este é meu e-mail para contato : britoedielson1@gmail.com 
 
 Linguagens e Ferramentas 
 ( python, postgresql )
