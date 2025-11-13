@@ -16,7 +16,7 @@ Linguagens e Ferramentas
 
 Entre em contato comigo:
 
-[ Linkedin ]  ( https://www.linkedin.com/in/edielson-brito-b290562b6/ )
-[ Gmail ]  ( britoedielson1@gmail.com )
+ Linkedin   ( https://www.linkedin.com/in/edielson-brito-b290562b6/ )
+ Gmail   ( britoedielson1@gmail.com )
 
 
