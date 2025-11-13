@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Olá 👋, Eu sou {Edielson Brito de Oliveira}
+Olá, Eu sou {Edielson Brito de Oliveira}
 
 desenvolvedor Backend, residente em {Rio de Janeiro}/{Brasil}
 
@@ -9,6 +7,7 @@ desenvolvedor Backend, residente em {Rio de Janeiro}/{Brasil}
 - 🔭 Empresa que trabalhei [ AP LOPES COMPUTADORES E SOFTWARES LTDA ] .
 
 - 🌱Meus estudos atuais focam em ** Backend ( Python(POO e Estruturada) e PostgreSQL.)  
+Conceito,	Classe,	Objeto (Instância),	Encapsulamento,	Herança,	Polimorfismo,	Abstração,	Método de Classe,Propriedade
 
 - 📫 Este é meu e-mail para contato : **britoedielson1@gmail.com **
 
@@ -17,7 +16,7 @@ Linguagens e Ferramentas
 
 Entre em contato comigo:
 
-[ ![ Linkedin ]  ( https://www.linkedin.com/in/edielson-brito-b290562b6/ )
-[ ![ Gmail ]  ( britoedielson1@gmail.com )
+[ Linkedin ]  ( https://www.linkedin.com/in/edielson-brito-b290562b6/ )
+[ Gmail ]  ( britoedielson1@gmail.com )
 
 
