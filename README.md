@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 ​​< h1  align = " center " >Olá 👋, Eu sou {Edielson Brito de Oliveira}
+
 < h3  align = " center " >{desenvolvedor Backend} residente em {Rio de Janeiro}/{Brasil}
+
 < p  align = " center " >{Sou desenvolvedor Backend com foco em programação. Terminei meu curso em Análise e Desenvolvimento de Sistema na Universidade Estácio, no início de 2024. Atualmente, faço cursos de programação na Alura.Busco criar soluções de alto desempenho, utilizando boas práticas. Meus objetivo profissional é contribuir em projetos,  evoluir profissionalmente, atuar em equipe e crescimento.}
 
-< p  align = " left " >< img  src = " https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat "  alt = " manualdofront " / > </p>
-
-> _ 🚨☝️ Lembre-se de trocar as instruções por "manualdofront" no link acima pelo seu nome de usuário do Github e remova esse comentário. _
 - 🔭 Empresa que trabalhei [ AP LOPES COMPUTADORES E SOFTWARES LTDA ] .
 
 - 🌱Meus estudos atuais focam em ** Backend ( Python(POO e Estruturada) e PostgreSQL.)  
