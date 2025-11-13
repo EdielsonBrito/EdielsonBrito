@@ -6,7 +6,7 @@ desenvolvedor Backend, residente em Rio de Janeiro/Brasil
 
 - 🔭 Empresa que trabalhei [ AP LOPES COMPUTADORES E SOFTWARES LTDA ] .
 
-- 🌱Meus estudos atuais focam em ** Backend ( Python(POO e Estruturada) e PostgreSQL.)  
+- 🌱Meus estudos atuais focam em  Backend ( Python(POO e Estruturada) e PostgreSQL.)  
 Conceito,	Classe,	Objeto (Instância),	Encapsulamento,	Herança,	Polimorfismo,	Abstração,	Método de Classe,Propriedade
 
 - 📫 Este é meu e-mail para contato : britoedielson1@gmail.com 
