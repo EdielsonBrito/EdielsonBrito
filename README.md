@@ -6,10 +6,16 @@ Olá, Eu sou Edielson Brito de Oliveira
 
 -  Empresa que trabalhei: AP LOPES COMPUTADORES E SOFTWARES LTDA  
 
--  Meus estudos atuais focam em  Backend ( Python (POO e Estruturada) e PostgreSQL.)  
-Conceito,	Classe,	Objeto (Instância),	Encapsulamento,	Herança, Polimorfismo,	Abstração,	Método de Classe, Propriedade
+-  Meus estudos atuais focam em  Backend ( Python (POO e Estruturada) / PostgreSQL / SQLite)  
+✔ Encapsulamento
+✔ Herança
+✔ Polimorfismo
+✔ Classes abstratas
+✔ Métodos de classe
+✔ Atributos privados
+✔ Regras de negócio
 
--  linguagens: Python e PostgreSqul
+-  linguagens: Python , PostgreSqul e SQLite
 
 -  Entre em contato comigo:
 -  Linkedin   ( https://www.linkedin.com/in/edielson-brito-b290562b6/ )
