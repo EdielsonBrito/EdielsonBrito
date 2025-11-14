@@ -2,7 +2,7 @@ Olá, Eu sou Edielson Brito de Oliveira
 
 -  Desenvolvedor Backend, residente em Rio de Janeiro/Brasil
 
--  Sou desenvolvedor Backend com foco em programação. Terminei meu curso em Análise e Desenvolvimento de Sistema na Universidade Estácio, no início de 2024. Atualmente, faço cursos de programação na Alura.Busco criar soluções de alto desempenho, utilizando boas práticas. Meus objetivo profissional é contribuir em projetos,  evoluir profissionalmente, atuar em equipe e crescimento.
+-  Sou desenvolvedor Backend com foco em programação. Terminei meu curso em Análise e Desenvolvimento de Sistema na Universidade Estácio, no início de 2024. Atualmente, faço cursos de programação na Alura. Busco criar soluções de alto desempenho, utilizando boas práticas. Meus objetivo profissional é contribuir em projetos,  evoluir profissionalmente, atuar em equipe e crescimento.
 
 -  Empresa que trabalhei [ AP LOPES COMPUTADORES E SOFTWARES LTDA ] .
 
